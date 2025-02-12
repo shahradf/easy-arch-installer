@@ -1,7 +1,6 @@
 import subprocess
 from time import sleep
 
-#--------------------------
 class Color:
     green = '\033[92m'
     red = '\033[91m'
